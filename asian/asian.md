@@ -6,4 +6,4 @@ Select a specific Asian food:
 ## Japanese
 ## [Thai](https://www.unithaibistro.com/) 
 ---
-Start Over
+[Start Over](../..home.md)
