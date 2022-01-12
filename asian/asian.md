@@ -2,7 +2,7 @@
 ## Asian
 ---
 Select a specific Asian food:
-## Chinese
+## [Chinese](https://www.nicechinatown.com/)
 ## Japanese
 ## [Thai](https://www.unithaibistro.com/) 
 ---
