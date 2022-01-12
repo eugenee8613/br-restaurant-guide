@@ -3,7 +3,7 @@
 ---
 Select a specific Asian food:
 ## [Chinese](https://www.nicechinatown.com/)
-## Japanese
+## [Japanese](http://kisushigroup.com/)
 ## [Thai](https://www.unithaibistro.com/) 
 ---
 Start Over
