@@ -2,8 +2,8 @@
 ## Asian
 ---
 Select a specific Asian food:
-## [Chinese](https://www.unithaibistro.com/) 
+## Chinese
 ## Japanese
-## Thai 
+## [Thai](https://www.unithaibistro.com/) 
 ---
 Start Over
